@@ -1,0 +1,5 @@
+<templateSet group="Zen CSS">
+  <template name="bdbrrs" value="border-bottom-right-radius: $END$;" description="border-bottom-right-radius:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

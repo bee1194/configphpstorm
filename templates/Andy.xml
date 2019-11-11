@@ -1,0 +1,8 @@
+<templateSet group="Andy">
+  <template name="haha" value="echo &quot;========================&quot;;&#10;echo &quot;&lt;pre&gt;&quot;;&#10;var_dump($PARAMETERS$);&#10;echo &quot;==&quot;.(__FILE__).&quot;==&quot;;&#10;exit('Hello may cung');" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

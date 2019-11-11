@@ -1,0 +1,22 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project 'advanced'" />
+    <option name="defaultScopeName" value="Project 'advanced'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'advanced'" />
+    <option name="FILE_MASK" value="*.php" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.inc</mask>
+    <mask>*.ctp</mask>
+    <mask>*.php4</mask>
+    <mask>*.php5</mask>
+    <mask>*.phtml</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.yml</mask>
+    <mask>*.php</mask>
+  </component>
+</application>
