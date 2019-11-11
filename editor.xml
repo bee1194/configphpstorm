@@ -26,4 +26,7 @@
       <option name="myExternalName" value="UNUSED ENTRY" />
     </info>
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
 </application>
