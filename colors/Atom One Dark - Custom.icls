@@ -1,16 +1,11 @@
-<scheme name="_@user_Atom One Dark" version="142" parent_scheme="Darcula">
+<scheme name="Atom One Dark - Custom" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-02-14T08:19:20</property>
-    <property name="description" />
+    <property name="created">2019-11-11T13:21:37</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.3.2.0.0</property>
+    <property name="ideVersion">2019.2.1.0.0</property>
     <property name="modified">2019-11-11T13:21:58</property>
-    <property name="originalScheme">Atom One Dark</property>
-    <property name="vendorMail" />
-    <property name="vendorName" />
-    <property name="vendorUrl">http://</property>
-    <property name="version">0.1</property>
+    <property name="originalScheme">Atom One Dark copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -41,7 +36,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="979fad" />
     <option name="FILESTATUS_MERGED" value="61aeef" />
     <option name="FILESTATUS_MODIFIED" value="e2c08d" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
