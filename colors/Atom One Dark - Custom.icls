@@ -4,7 +4,7 @@
     <property name="created">2019-11-11T13:21:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-11-12T16:20:38</property>
+    <property name="modified">2019-11-11T13:21:58</property>
     <property name="originalScheme">Atom One Dark copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2664,7 +2664,7 @@
     </option>
     <option name="PHP_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="28e0cb" />
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="PHP_INSTANCE_METHOD">
