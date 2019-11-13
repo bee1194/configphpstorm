@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'advanced'" />
-    <option name="defaultScopeName" value="Project 'advanced'" />
+    <option name="customScope" value="File '...\widgets\cropper\views\cropper.php'" />
+    <option name="defaultScopeName" value="File '...\widgets\cropper\views\cropper.php'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'advanced'" />
+    <option name="SEARCH_SCOPE" value="File '...\widgets\cropper\views\cropper.php'" />
     <option name="FILE_MASK" value="*.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
