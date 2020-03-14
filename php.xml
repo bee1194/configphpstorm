@@ -1,15 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="63305325-4a04-4f8d-ad1b-f2a642e16c7d" name="PHP 7.2" home="C:\wamp\bin\php\php7.2.18\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\wamp\bin\php\php7.2.18\zend_ext\php_xdebug-2.7.2-7.2-vc15.dll" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.2">
