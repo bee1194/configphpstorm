@@ -1,11 +1,11 @@
-<scheme name="Atom One Dark - Custom" version="142" parent_scheme="Darcula">
+<scheme name="Atom One Dark - Andy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-11-11T13:21:37</property>
+    <property name="created">2020-07-18T23:18:47</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-11-11T13:21:58</property>
-    <property name="originalScheme">Atom One Dark copy</property>
+    <property name="ideVersion">2019.2.5.0.0</property>
+    <property name="modified">2020-07-18T23:18:51</property>
+    <property name="originalScheme">Atom One Dark - Custom</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
