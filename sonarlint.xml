@@ -1,5 +1,16 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://codescan.beyondedge.com.sg:9000" />
+          <token>df9bdf92dfc8dfc9dfcedf92df98df93df9fdf9ddf9edf9fdfc9dfc8dfcbdf9cdfcbdf9fdf9fdfcfdf9cdf9ddfc8dfc8dfccdfcbdf9bdf9cdf9fdf9adf99dfcedf9adfcbdfcfdf9ddf9adf9edfcbdf9f</token>
+          <option name="name" value="BE" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
