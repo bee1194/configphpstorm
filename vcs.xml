@@ -86,9 +86,13 @@
           <option name="url" value="https://gitlab.com/andyle1194/doan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/andyle1194/socket.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\local\www" />
+    <option name="cloneParentDir" value="C:\vm\1\www" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
