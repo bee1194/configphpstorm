@@ -1,4 +1,5 @@
 <code_scheme name="BE Solutions" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="USE_TAB_CHARACTER" value="true" />
@@ -33,6 +34,9 @@
     <option name="RETURN_TYPE_ON_NEW_LINE" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
