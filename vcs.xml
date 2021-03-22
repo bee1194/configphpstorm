@@ -126,6 +126,10 @@
           <option name="url" value="https://github.com/bee1194/learing-flutter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/felangel/bloc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\MKD\var\www" />
