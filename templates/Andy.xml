@@ -20,7 +20,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="tt" value="AppLocalizations.t(context, &quot;$PARAMETERS$&quot;)," toReformat="false" toShortenFQNames="true">
+  <template name="tt" value="AppLocalizations.t(context, &quot;$PARAMETERS$&quot;)," description="" toReformat="false" toShortenFQNames="true">
     <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
