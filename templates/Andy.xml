@@ -26,4 +26,10 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="sgl" value="static final $PARAMTER$ _instance = $PARAMTER$._internal();&#10;&#10;factory $PARAMTER$() {&#10;  return _instance;&#10;}&#10;&#10;$PARAMTER$._internal();" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMTER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
