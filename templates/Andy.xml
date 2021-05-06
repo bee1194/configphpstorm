@@ -32,7 +32,7 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="lele" value="print(&quot;//======Hello=may=cung======//&quot;);&#10;print($PARAMETRE$);&#10;print(&quot;//======END======//&quot;);" toReformat="false" toShortenFQNames="true">
+  <template name="lele" value="print(&quot;//======Hello=may=cung======//&quot;);&#10;print($PARAMETRE$);&#10;print(&quot;//======END======//&quot;);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="PARAMETRE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
