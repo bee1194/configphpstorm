@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="894111eb-134e-47b9-87db-da2dba00da81" name="Oracle" url="https://host.andyle.info/">
+        <fileTransfer mountedRoot="C:\Users\ANDY\var\htdocs" accessType="MOUNT" port="0" />
+      </webServer>
+      <webServer id="c7893b54-334e-4e0c-aeb2-1789775ee991" name="Oracle" url="https://host.andyle.info/">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
